@@ -36,7 +36,7 @@ Enables members of a community to be able to interact with each other
 
 ## Screenshots
 
-![Twitter-JP ERD](./ERD.jpeg)
+![Twitter-JP ERD](./.jpeg)
 ![Twitter-JP Trello](./trello.jpeg)
 ![Twitter-JP Home](./home.jpeg)
 ![Twitter-JP UserProfile](./up.jpeg)
