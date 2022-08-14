@@ -1,71 +1,48 @@
-# Getting Started with Create React App
+# Twitter-JP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Product Requirements Documentation
 
-## Available Scripts
+**Summary**
 
-In the project directory, you can run:
+| Field | Detail |
+|--------|-----|
+| Project Name | Twitter-JP |
+| Description | A website where users can interact with our community members. |
+| Developers | Jonathan Pierre |
+| Live Website (FrontEnd) | https://twitter-jp.netlify.app/ |
+| Repo-Frontend | https://github.com/JPierre23/Twitter-JP-frontend |
+| Live Website (BackEnd) | https://twitter-jp-backend.herokuapp.com/ |
+| Repo-Backend | https://github.com/JPierre23/Twitter-JP |
+| Trello Board | https://trello.com/b/Gouvq5rE/twitter-jp |
 
-### `npm start`
+## Technologies Used
+-HTML5
+-CSS3
+-JavaScript
+-Node.js
+-Express
+-Meterilize
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Problem Being Solved and Target Market
+Enables members of a community to be able to interact with each other
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## User Stories
+- Users should be able to access the site
+- As a user I should be able to signup / login to a created account
+- As a user I should only be able to Create, Edit, Delete my own posts, and comments.
+- As a user I should be able to view different posts created by other users.
+- As a user I should be able to leave comments on posts.
+- As a user I should be able to easily navigate through the website.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Twitter-JP ERD](./ERD.jpeg)
+![Twitter-JP Trello](./trello.jpeg)
+![Twitter-JP Home](./home.jpeg)
+![Twitter-JP UserProfile](./up.jpeg)
+![Twitter-JP Feed](./Feed.jpeg)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Twitter-JP-frontend
+## Future Enhancements
